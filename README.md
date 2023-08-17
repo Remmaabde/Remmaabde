@@ -22,7 +22,7 @@ src="file.gif">
 
 - 📫 How to reach me **Reemabdella702@gmail.com**
 
-- ⚡ Fun fact **I'm good at acting and follow my social accounts.**
+- ⚡ Fun fact **I'm good at acting and follow my social media accounts.**
 
 
 <h3 align="left">Connect with me:</h3>
