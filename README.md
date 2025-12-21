@@ -1,7 +1,7 @@
 
 ![logo](https://github.com/Remmaabde/Remmaabde/blob/master/banner.png)
 <h1 align="center">Hi 👋, I'm Reem👩</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia.</h3>
+<h3 align="center">A passionate Fullstack developer from Ethiopia.</h3>
 
 <img align="right" alt="coding" width="400" 
 src="file.gif">
