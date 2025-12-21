@@ -10,15 +10,15 @@ src="file.gif">
 
 
 
-- 🔭 I’m currently working on [E-commerce Project](https://github.com/Remmaabde/E-commerce.git)
+- 🔭 I’m currently working on [Different Full-stack Projects](https://github.com/Remmaabde/E-commerce.git)
 
-- 🌱 I’m currently learning **JavaScript Frameworks and python**
+- 🌱 I’m currently learning **JavaScript Frameworks and ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Remmaabde](https://github.com/Remmaabde)
 
 - 📝 I regularly write articles on [instagram.com/remmaabde](instagram.com/remmaabde)
 
-- 💬 Ask me about **HTML,CSS,Javascript**
+- 💬 Ask me about **Full-stack**
 
 - 📫 How to reach me **Reemabdella702@gmail.com**
 
