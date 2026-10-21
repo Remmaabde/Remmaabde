@@ -95,11 +95,9 @@ I care about:
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[E-commerce Platform](https://github.com/Remmaabde/E-commerce)** | Full-stack e-commerce application | Full-stack |
-| *Add more projects here* | Short one-line description | Docker, Node, React, etc. |
-| *Another project* | What problem it solves | Tech stack |
+| **[E-Learning App](https://github.com/Remmaabde/E-Learning-App)** | Full-stack e-commerce application | Full-stack |
+| **[Hospital Management system](https://github.com/Remmaabde/grad)** | Full-stack Hospital management system | Full-stack |
 
-> Tip: Pin your 4–6 strongest repos on your profile (the ones that best show full-stack + DevOps skills).
 
 ---
 
