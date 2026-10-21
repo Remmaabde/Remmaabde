@@ -1,41 +1,123 @@
+<div align="center">
+  
+  <!-- Typing animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;DevOps+%26+SRE+Enthusiast;Building+Reliable+Systems;From+Addis+Ababa+%F0%9F%87%AA%F0%9F%87%B9" alt="Typing SVG" />
+  </a>
 
-![logo](https://github.com/Remmaabde/Remmaabde/blob/master/banner.png)
-<h1 align="center">Hi 👋, I'm Reem👩</h1>
-<h3 align="center">A passionate Fullstack developer from Ethiopia.</h3>
+  <br><br>
 
-<img align="right" alt="coding" width="400" 
-src="file.gif">
+  <img src="https://komarev.com/ghpvc/?username=Remmaabde&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reemaabde&label=Profile%20views&color=0e75b6&style=flat" alt="reemaabde" /> </p>
+---
 
+### 👋 Hey, I'm Reem
 
+**Full-Stack Developer** with a strong focus on **DevOps, SRE practices, and building reliable systems**.  
+Based in **Addis Ababa, Ethiopia** 🇪🇹 currently leveling up in cloud-native technologies, infrastructure as code, and production-grade full-stack applications.
 
-- 🔭 I’m currently working on [Different Full-stack Projects](https://github.com/Remmaabde/E-commerce.git)
+I care about:
+- Clean architecture & maintainable code
+- Automated, observable, and resilient systems
+- Shipping things that actually work in production
 
-- 🌱 I’m currently learning **JavaScript Frameworks and ML**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Remmaabde](https://github.com/Remmaabde)
+### 🔭 Currently Working On
+- Full-stack applications with modern JavaScript/TypeScript stacks
+- Dockerizing apps & setting up solid CI/CD pipelines
+- Learning SRE fundamentals (observability, reliability, incident response)
+- Exploring cloud platforms and infrastructure automation
 
-- 📝 I regularly write articles on [instagram.com/remmaabde](instagram.com/remmaabde)
+### 🌱 Currently Learning
+- Advanced Docker & container orchestration
+- Kubernetes fundamentals
+- Infrastructure as Code (Terraform)
+- Monitoring & observability (Prometheus, Grafana)
+- System design & reliability engineering practices
 
-- 💬 Ask me about **Full-stack**
+---
 
-- 📫 How to reach me **Reemabdella702@gmail.com**
+### 🛠️ Tech Stack
 
-- ⚡ Fun fact **I'm good at acting and follow my social media accounts.**
+**Languages**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/remma_abde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="remma_abde" height="30" width="40" /></a>
-<a href="https://medium.com/@remma_abde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@remma_abde" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/remma_abde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="remma_abde" height="30" width="40" /></a>
+**Backend & APIs**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=rest&logoColor=white)
+
+**DevOps / SRE / Cloud**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+**Databases & Tools**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Remmaabde&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Remmaabde&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Remmaabde&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[E-commerce Platform](https://github.com/Remmaabde/E-commerce)** | Full-stack e-commerce application | Full-stack |
+| *Add more projects here* | Short one-line description | Docker, Node, React, etc. |
+| *Another project* | What problem it solves | Tech stack |
+
+> Tip: Pin your 4–6 strongest repos on your profile (the ones that best show full-stack + DevOps skills).
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reem-abdella-05954527a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Reemabdella702@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Remmaabde)
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+<br>
+
+<p align="center">
+  <i>"You want to be a writer? Start writing. You want to be a filmmaker? Start shooting stuff on your phone right now."</i><br>
+  — Matthew McConaughey
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Remmaabde"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Remmaabde" /></a></p><br><br>
-
-
